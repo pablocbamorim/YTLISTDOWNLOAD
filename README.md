@@ -1,6 +1,7 @@
 # YTListDownload
 
-Python script that downloads the first search result for each item in the list.
+Need to download a whole list of youtube videos/ audios?
+This is a python script that downloads the first search result for each item in the list.
 Input your titles list in list.txt and run the program.
 LEGAL ADVISORY: This project was made for personal use. The user is responsible for respecting YouTube's TOS.
 
